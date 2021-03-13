@@ -1,0 +1,15 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+#league{
+    background-color: white;
+}
