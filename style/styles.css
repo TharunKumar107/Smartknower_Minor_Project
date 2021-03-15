@@ -13,3 +13,14 @@ p{
 #league{
     background-color: white;
 }
+
+.fav_carousel{
+    height: auto;
+    width: 100%
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
